@@ -140,6 +140,7 @@
  - [Open Data Philly](https://www.opendataphilly.org/)
  - [JSON View](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc)
  - [Atom Linter](https://atom.io/packages/linter)
+ - [Atom Editor Cheatsheet](https://gist.github.com/chrissimpkins/5bf5686bae86b8129bee)
 ---
 
 ## 6. Weekly Newsletters / Tips / Tricks
